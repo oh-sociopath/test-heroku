@@ -1,12 +1,12 @@
 {
   "name": "test-heroku",
   "version": "1.0.0",
-  "description": "",
+  "description": "sasa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "gevorg.martirosyan.1998.08@gmail.com",
   "license": "ISC"
 }
