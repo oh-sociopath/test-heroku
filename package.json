@@ -7,7 +7,7 @@
     "start": "node dist/index.js",
     "postinstall": "tsc",
     "dev:start": "nodemon src/index.js",
-    "deploy": "git add . && git commit -m Heroku && git push heroku master"
+    "deploy": "git add . && git commit -m Heroku && git push heroku main"
   },
   "keywords": [],
   "author": "gevorg.martirosyan.1998.08@gmail.com",
