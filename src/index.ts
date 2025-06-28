@@ -7,7 +7,7 @@ const port = process.env.PORT || 3001;
 
 app.use(home_router);
 
-app.get('/', (req, res) => {
+app.get('/', (req, res ) => {
   res.send('I\'m dead inside!')
 })
 
